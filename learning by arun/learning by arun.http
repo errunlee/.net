@@ -1,0 +1,6 @@
+@learning_by_arun_HostAddress = http://localhost:5276
+
+GET {{learning_by_arun_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
